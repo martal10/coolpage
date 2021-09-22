@@ -1,5 +1,7 @@
 /*Element selectors */
-
+body{
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
 h1{
 color:purple;
 text-decoration: underline;
@@ -61,5 +63,6 @@ nav{
 .marta{
     font-size: 30px;
     color: blue;
-
+    background-color: #4158D0;
+    
 }

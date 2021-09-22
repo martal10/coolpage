@@ -7,20 +7,53 @@ body, html {
 
 header{
     margin: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
 
 }
 
 img.header{
     width: 40px;
-}
+    display: flex;
+    }
 
 nav{
     font-size: 24px;
     font-weight: 400;
     padding: 8px 16px 8px 16px;
+    }
+
+nav.topnav{
+    display: flex;
+    justify-content:flex-end;
+    align-items: center;
+    gap: 32px;
+
+    
+}
+section.video1{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: column;
 
 }
+div.video2{
+    display: flex;
+    justify-content:space-around
 
+}
+video.video3{
+    display: flex;
+
+   }
+section.video2{
+    display: flex;
+    justify-content: center;
+    flex-direction:column;
+
+}
 a:hover {
     text-decoration: underline;
     color:blueviolet;
@@ -37,7 +70,7 @@ p{
     font-size: 20px;
     max-width: 500px;
     line-height: 26px;
-}
+    }
 
 
 h2{
@@ -52,8 +85,20 @@ h2{
 section.p23{
     background-color:#ffc700;
     margin-top: 100px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction:row;
+
 }
 
+section.video3{
+    display: flex;
+    justify-content: c;nter:
+    flex-direction:column
+
+    
+}
 div.p23{
     max-width: 550px;
 }
@@ -84,7 +129,11 @@ footer{
 section.p25{
     background-color: black;
     color: white;
-   }
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+         }
 
 h2.p25{
     font-size: 36px;
@@ -104,6 +153,9 @@ img.p25{
 }
 div.p25{
     width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 button.p25{
     color: black;
@@ -125,4 +177,43 @@ input{
     width: 400px;
     color: #282828;
     padding: 12px;
+}
+section.figmafree{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+form{
+    display: flex;
+   
+    flex-direction: column;
+    align-items: center;
+     
+}
+
+footer{
+    display: flex;
+    justify-content: space-between;
+ }
+div.column1{
+    display: flex;
+  flex-direction: column;
+  }
+div.column2{
+    display: flex;
+  flex-direction: column;
+}
+div.column3{
+    display: flex;
+  flex-direction: column;
+}
+div.column4{
+    display: flex;
+  flex-direction: column;
+}
+div.column5{
+    display: flex;
+  flex-direction: column;
 }
