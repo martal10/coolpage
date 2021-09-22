@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Figma Landing Page</title>
+    </head>
+    <body>
+        <header>
+            <div>
+                <img width="50" src="https://tinyurl.com/figma-image" alt="Figma icon">
+            </div>
+            <nav class="topnav">
+                <a href="#Product">Product</a>
+                <a href="#Platform">Platform</a>
+                <a href="#Design">Design</a>
+                <a href="#Community">Community</a>
+                <button>Sign Up</button>
+            </nav>
+        </header>
+        <main>
+            <section>
+                <video width="500" controls autoplay loop>
+                    <source src="https://tinyurl.com/figma-main-video" type="video/mp4">
+                </video>
+                <p>
+                    Figma connects everyone in the design process so teams can deliver better products, faster   
+                </p>
+                <button>
+                    Try figma for free
+                </button>
+            </section>
+<section>
+    <video width="500" autoplay loop>
+        <source src="https://tinyurl.com/figma-middle-1" type="video/mp4">
+    </video>
+    <h2>Design for the web made easy</h2>
+    <p>
+    Figma was built for the future of web. That’s why you’ll see features you won’t find elsewhere.
+    </p>
+    <ul>
+        <li>
+            A modern pen tool: Draw in any direction with Vector Networks. No more merging or needing to connect to the path's original point.
+        </li>
+        <li>Instant arc designs: Design clocks, watch screens, or pie charts easily with the Arc tool.
+        </li>
+            <li>Be expressive with OpenType: ap into advanced font features to fully express your brand</li></ul>
+            <section>
+                <div>
+                <h1>
+                 A design platform for scale
+                </h1>
+                <p>Great design has the potential to differentiate your product and brand. But great design can’t happen in a silo. Figma brings product teams together for a faster and inclusive design workflow.</p>
+                <button>Request a demo</button></div>
+                <video width="500" controls autoplay loop>
+                    <source src="https://tinyurl.com/figma-org" type="video/mp4">
+                </video>
+            </section>
+            <section>
+                <video width="500" controls autoplay loop>
+                    <source src="https://tinyurl.com/figma-middle-2" type="video/mp4">
+                </video>
+                <div>
+                    <h1>
+                        Automate and augment your work with Plugins 
+                    </h1>
+                    <p>
+                        Remove repetitive tasks, bring in data, and power custom workflows.
+                    </p>
+                    <ul>
+                        <li>
+                            Plugins for everything: Stock imagery, flow diagrams, color accessibility, charts, icons, and more.
+                        </li>
+                        <li>
+                            Easy development: If you can build a website, you can build a plugin.
+                        </li>
+                        <li>
+                            Private Plugins: Organization customers can create and distribute provate plugins within their company
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <h2>Join the community</h2>
+            <p>
+                Learn from others, share your work, and extend your tool set with a diverse group of designers, plugin creators, researchers, illustrators, content writers, and many more from around the world.
+            </p>
+            <img src ="https://tinyurl.com/fig-community-1">
+            <img src ="https://tinyurl.com/fig-community-2">
+            <img src ="https://tinyurl.com/fig-community-3">
+            <p></p>
+<button>Browse Figma Community</button>
+  </section>
+  <section>
+      <h1>
+          Try figma for free
+      </h1>
+      <button>
+          Continue with Google
+      </button>
+      <p>or</p>
+      <form>
+    <input text="text" id="email" placeholder="email">
+    <p>
+        <input text="text" id="password" placeholder="password">
+    </p>
+  <p>
+        <button>
+            Create Account
+        </button>
+    </p>
+      <form action="/action_page.php">
+        <input type="submit" value="Submit">
+      </form>
+        </section>
+         </main>
+         <footer>
+             <p>
+                <img src ="https://tinyurl.com/figma-svg">
+             </p>
+<p>Twitter</p>
+<p>Youtube</p>
+<p>Instagram</p>
+<p>Facebook</p>
+<p>Manage Cookies</p>
+<p><b>Usecases</b></p>
+<p>UI Design</p>
+<p>UX Design</p>
+<p>Graphic design</p>
+<p><b>Explore</b></p>
+<p>Dummy text</p>
+<p>Dummy text</p>
+<p>Dummy text</p>
+<p><b>Resources</b></p>
+<p>Dummy text</p>
+<p>Dummy text</p>
+<p>Dummy text</p>
+<p><b>Compare</b></p>
+<p>Dummy text</p>
+<p>Dummy text</p>
+<p>Dummy text</p>
+        </footer>
+    </body>
+</html>

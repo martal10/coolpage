@@ -1,0 +1,128 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    scroll-behavior: smooth; 
+}
+
+header{
+    margin: 20px;
+
+}
+
+img.header{
+    width: 40px;
+}
+
+nav{
+    font-size: 24px;
+    font-weight: 400;
+    padding: 8px 16px 8px 16px;
+
+}
+
+a:hover {
+    text-decoration: underline;
+    color:blueviolet;
+    cursor: poiner;
+}
+
+
+p.myparagraph{
+    font-size: 100px;
+    color: red;
+}
+
+p{
+    font-size: 20px;
+    max-width: 500px;
+    line-height: 26px;
+}
+
+
+h2{
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-bottom: 32px;
+}
+
+/*object.classname*/
+
+section.p23{
+    background-color:#ffc700;
+    margin-top: 100px;
+}
+
+div.p23{
+    max-width: 550px;
+}
+
+
+button {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    border: 0;
+    padding: 14px 24px 16px 24px;
+    cursor: pointer;
+}
+
+li{
+    font-size: 20px;
+    line-height: 26px;
+    max-width: 500px;
+}
+
+footer{
+    background-color: #FAFAFA;
+    margin: 50px;
+}
+
+section.p25{
+    background-color: black;
+    color: white;
+   }
+
+h2.p25{
+    font-size: 36px;
+    line-height: 1.2;
+    font-weight: 700;
+}
+p.p25{
+ max-width: 800px;
+text-align: center;    
+}
+
+img.p25{
+    border-radius: 10px;
+    margin: 20px;
+    max-width: 400px;
+    object-fit: cover;
+}
+div.p25{
+    width:100%;
+}
+button.p25{
+    color: black;
+    background-color: white;
+    margin: 50px;
+}
+form{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+input{
+    margin: 10px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    height: 50px;
+    width: 400px;
+    color: #282828;
+    padding: 12px;
+}

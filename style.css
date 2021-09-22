@@ -1,0 +1,65 @@
+/*Element selectors */
+
+h1{
+color:purple;
+text-decoration: underline;
+}
+
+p{
+    width: 100px;
+    color: yellow;
+    background-color: tomato;
+    font-size:20px;
+    font-weight: 700;
+    
+    padding: 10px 2px 20px 5px;
+    margin: 30px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+/*Universal selectors*/
+
+*{color: red}
+
+/*Class selectors*/
+.subtitle{
+    color:skyblue
+}
+
+/* ID selectors*/
+#msg{
+    color:green
+}
+
+html, body {
+    margin:20px;
+    padding:0;
+    font-family: 'Courier New', Courier, monospace
+}
+button{
+    color: white;
+    background-color: black;
+    border: 0;
+    border-radius: 5px;
+    margin: 10px
+
+}
+h3:hover {
+    text-decoration: underline
+    color: blueviolet;
+}
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.marta{
+    font-size: 30px;
+    color: blue;
+
+}
